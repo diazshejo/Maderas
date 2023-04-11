@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maderas", "Maderas.csproj", "{F83EEC49-BB87-4AFA-878F-0233ED23CD1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83EEC49-BB87-4AFA-878F-0233ED23CD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83EEC49-BB87-4AFA-878F-0233ED23CD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83EEC49-BB87-4AFA-878F-0233ED23CD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83EEC49-BB87-4AFA-878F-0233ED23CD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63CDE6A-A19D-401D-96FD-750ACF1E8E02}
+	EndGlobalSection
+EndGlobal
